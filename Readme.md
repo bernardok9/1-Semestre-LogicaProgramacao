@@ -1,5 +1,10 @@
 # Simulado da Prova de "Lógica de Programação".
 ### Guia para navegar nos arquivos. 
+
+### \Exercicios
+#### -
+#### -
+
 ### \Simulado
 #### index(Menu principal)
 #### choose(Javascript para navegar nos menu)
