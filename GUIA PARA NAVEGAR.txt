@@ -1,0 +1,20 @@
+﻿# (OBS: Ativar a quebra automática de linha)
+#
+# Guia para navegar nos arquivos.
+#
+# \Simulado
+# index(Menu principal)
+# choose(Javascript para navegar nos menu)
+#
+# \Simulado\Questões
+# Questão 01 - \Simulado\Questões\q1 && \Simulado\Questões\js\praca
+# Questão 02 - \Simulado\Questões\q2 && \Simulado\Questões\js\pacotes
+# Questão 03 - \Simulado\Questões\q3 && \Simulado\Questões\js\peixes
+# Questão 04 - \Simulado\Questões\q4 && \Simulado\Questões\js\estacionamento
+#
+# \Simulado\Questões\Extra
+# Questão 01 extra - \Simulado\Questões\Extra\e1 && \Simulado\Questões\Extra\js\posto
+# Questão 02 extra - \Simulado\Questões\Extra\e2 && \Simulado\Questões\Extra\js\chocolate
+# Questão 03 extra - \Simulado\Questões\Extra\e3 && \Simulado\Questões\Extra\js\cigarro
+#
+# Desconsiderar a última linha das questões, pois são o botão voltar para o menu index.
