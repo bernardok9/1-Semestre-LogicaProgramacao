@@ -1,5 +1,5 @@
 # Simulado da Prova de "Lógica de Programação".
-<<<<<<< HEAD
+
 ### Guia para navegar nos arquivos. 
 
 ### \Exercicios
